@@ -1,10 +1,10 @@
 # Dracula for [YouTube Music Desktop](https://ytmdesktop.app/)
 
-> A dark theme for [YouTube Music Desktop](https://ytmdesktop.app/).
-
-![Screenshot](./screenshot.png)
-
-Theme heavily based on the css files from [OceanicSquirrel](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player)
+**Author:** mostrub  
+**Version:** 1.0.0  
+**Last Updated:** February 16, 2025  
+**License:** MIT  
+**Repository:** https://github.com/mostrub/GrootRoots
 
 ## Install
 
